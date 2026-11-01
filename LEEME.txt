@@ -1,0 +1,53 @@
+FICHAS VISUALES DE ALBAÑILERÍA · VERSIÓN CON EJERCICIOS AUTOCORREGIBLES
+14 fichas · 4 pasos por ficha · 56 pasos
+
+Se conservan la estética, los apartados, la numeración de las ocho fichas originales y sus 32 imágenes. Se añaden seis prácticas con 24 ilustraciones orientativas generadas con IA y la marca pequeña abajo a la izquierda.
+
+NUEVAS PRÁCTICAS
+9. Replantear un tabique de práctica
+10. Preparar el soporte
+11. Colocar baldosas en un panel de práctica
+12. Rejuntar baldosas
+13. Reparar un pequeño desconchón
+14. Limpiar y guardar las herramientas
+
+ENFOQUE FORMATIVO
+Pensado como apoyo visual para prácticas supervisadas en el taller. Repasa primero Seguridad antes de empezar; el docente elige la tarea y valida el resultado. Cada ficha incluye una comprobación final. La reparación superficial no se aplica a grietas, humedades ni daños estructurales.
+
+REVISIÓN
+Se han precisado los textos de la primera hilada, la colocación de bloques, la preparación para el enfoscado y la comprobación del mortero de juntas con guante adecuado. El buscador admite varias palabras y búsquedas sin tildes. El marcado de los pasos se guarda en este navegador y dispositivo, si el almacenamiento está disponible. Las fichas nuevas incluyen referencias para el docente.
+
+INSTALACIÓN
+No requiere compilación ni dependencias. Mantén index.html, ejercicios.js y la carpeta img juntos.
+Netlify: descomprime y sube la carpeta que contiene index.html mediante despliegue manual.
+Cloudflare Pages: utiliza la carga directa de recursos con el ZIP o la carpeta según la opción disponible.
+
+Las imágenes no son fotografías ni sustituyen una demostración. Las proporciones, los espesores, la compatibilidad del soporte y los tiempos de aplicación, endurecimiento y puesta en servicio los determinan la práctica y las instrucciones del producto utilizado.
+
+EJERCICIOS AUTOCORREGIBLES
+Se añaden 28 ejercicios, dos por ficha, con pistas, explicación de resultados,
+repetición y enlaces a las fichas. Incluyen reconocimiento, orden de trabajo,
+actuaciones y dos cálculos sencillos: proporción dada y conversión de unidades.
+Las cantidades de los ejercicios no son recetas universales ni prescripciones.
+La portada da acceso a la lista de ejercicios; cada ficha enlaza a los suyos.
+Se resuelven en pantalla y no sustituyen las prácticas supervisadas.
+
+GUARDADO DEL PROGRESO
+Se guardan los pasos marcados y los ejercicios superados en este navegador y
+dispositivo. No se envían respuestas. Borrar los datos del navegador elimina
+el progreso. En navegación privada el guardado puede ser temporal o no estar
+disponible. Las respuestas e intentos en curso duran mientras la página está abierta.
+Repetir una actividad no borra su logro. Para borrar los logros de ejercicios,
+usa «Reiniciar el progreso de ejercicios» y confirma; se conservan los pasos.
+
+PUBLICACIÓN
+Descomprime el ZIP y sube su contenido completo. index.html, ejercicios.js y
+la carpeta img deben quedar en la raíz publicada. Se incluye .nojekyll para
+GitHub Pages. Compatible con GitHub Pages, Cloudflare Pages y Netlify.
+No requiere cuentas del alumnado, instalación, compilación ni base de datos.
+No incluye modo sin conexión instalable. Los enlaces externos necesitan conexión.
+
+Se conservan las 14 fichas y las 56 imágenes originales, incluida su marca.
+Las fichas de la anterior ampliación mantienen el logo superpuesto por la app.
+Los ejercicios no acreditan formación ni autorizan trabajos.
+Revisión: octubre de 2026.
